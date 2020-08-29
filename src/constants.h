@@ -1,0 +1,7 @@
+#ifndef CHORD_CONSTANTS_H
+#define CHORD_CONSTANTS_H
+
+#define M 40
+#define IPV4_SIZE 32
+
+#endif //CHORD_CONSTANTS_H
